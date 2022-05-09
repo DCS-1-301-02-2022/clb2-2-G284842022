@@ -22,7 +22,6 @@
 [↗️](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor03)
 
 
-
 # 学科データ
 取得できる学位　学士
 ||
